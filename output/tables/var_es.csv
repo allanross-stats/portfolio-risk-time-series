@@ -1,0 +1,49 @@
+"Portfolio","Horizon_days","Confidence","Method","VaR_USD","ES_USD"
+"Control",1,0.95,"Historical",8540,14361
+"Control",1,0.95,"Parametric (normal)",9908,12501
+"Control",1,0.95,"Monte Carlo (t)",9479,13374
+"Control",1,0.99,"Historical",15678,26560
+"Control",1,0.99,"Parametric (normal)",14137,16240
+"Control",1,0.99,"Monte Carlo (t)",15234,20303
+"Control",10,0.95,"Historical",27019,45838
+"Control",10,0.95,"Parametric (normal)",29282,37482
+"Control",10,0.95,"Monte Carlo (t)",29067,37957
+"Control",10,0.99,"Historical",53384,87116
+"Control",10,0.99,"Parametric (normal)",42656,49306
+"Control",10,0.99,"Monte Carlo (t)",43352,50695
+"Low",1,0.95,"Historical",7303,11714
+"Low",1,0.95,"Parametric (normal)",8290,10464
+"Low",1,0.95,"Monte Carlo (t)",7853,11326
+"Low",1,0.99,"Historical",13547,21461
+"Low",1,0.99,"Parametric (normal)",11836,13599
+"Low",1,0.99,"Monte Carlo (t)",13232,17590
+"Low",10,0.95,"Historical",22450,38666
+"Low",10,0.95,"Parametric (normal)",24382,31258
+"Low",10,0.95,"Monte Carlo (t)",24283,31955
+"Low",10,0.99,"Historical",41463,75990
+"Low",10,0.99,"Parametric (normal)",35595,41171
+"Low",10,0.99,"Monte Carlo (t)",36790,43211
+"Medium",1,0.95,"Historical",15903,27520
+"Medium",1,0.95,"Parametric (normal)",18588,23481
+"Medium",1,0.95,"Monte Carlo (t)",17852,25276
+"Medium",1,0.99,"Historical",29942,50122
+"Medium",1,0.99,"Parametric (normal)",26568,30536
+"Medium",1,0.99,"Monte Carlo (t)",29621,37938
+"Medium",10,0.95,"Historical",46707,85337
+"Medium",10,0.95,"Parametric (normal)",54190,69662
+"Medium",10,0.95,"Monte Carlo (t)",53377,69460
+"Medium",10,0.99,"Historical",104199,158535
+"Medium",10,0.99,"Parametric (normal)",79424,91971
+"Medium",10,0.99,"Monte Carlo (t)",79855,93791
+"High",1,0.95,"Historical",43871,70703
+"High",1,0.95,"Parametric (normal)",48458,61259
+"High",1,0.95,"Monte Carlo (t)",45286,64711
+"High",1,0.99,"Historical",86554,121582
+"High",1,0.99,"Parametric (normal)",69335,79716
+"High",1,0.99,"Monte Carlo (t)",77637,96943
+"High",10,0.95,"Historical",120887,186945
+"High",10,0.95,"Parametric (normal)",140025,180506
+"High",10,0.95,"Monte Carlo (t)",132398,171009
+"High",10,0.99,"Historical",218788,292413
+"High",10,0.99,"Parametric (normal)",206046,238874
+"High",10,0.99,"Monte Carlo (t)",194361,223690
